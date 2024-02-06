@@ -1,0 +1,9 @@
+body{
+  background-color: blanchedalmond;
+}
+.bar{
+  display: flex;
+  height: 20px;
+  width: 100px;
+  justify-content: space-around;
+}
